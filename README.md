@@ -7,7 +7,11 @@ Repo for course hometasks & lecture materials on "Programming foundations for ch
 
 - [Awesome python](https://github.com/vinta/awesome-python) - list of awesome links (check it!). You can find there different materials on topics like: python code optimization, debugging, etc.
 
-### data science, machine learning and related
+- [STA 663: Computational Statistics and Statistical Computing](http://people.duke.edu/~ccc14/sta-663-2017/) - advansed course on python, with introduction to many useful libraries and methods you all should read about =)
+
+- [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+
+### Data science, machine learning and related
 
 - [Machine learning list from Academic University course](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
 
