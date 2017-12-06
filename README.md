@@ -11,6 +11,8 @@ Repo for course hometasks & lecture materials on "Programming foundations for ch
 
 - [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
+- https://github.com/donnemartin/data-science-ipython-notebooks
+
 ### Algorithms
 
 - [e-maxx.ru](https://e-maxx.ru/algo/) - Russian-speaking site with algorithm explanations
