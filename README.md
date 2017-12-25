@@ -7,7 +7,7 @@ Repo for course hometasks & lecture materials on "Programming foundations for ch
 
 - [Awesome python](https://github.com/vinta/awesome-python) - list of awesome links (check it!). You can find there different materials on topics like: python code optimization, debugging, etc.
 
-- [STA 663: Computational Statistics and Statistical Computing](http://people.duke.edu/~ccc14/sta-663-2017/) - advansed course on python, with introduction to many useful libraries and methods you all should read about =)
+- [STA 663: Computational Statistics and Statistical Computing](http://people.duke.edu/~ccc14/sta-663-2017/) - advanced course on python, with introduction to many useful libraries and methods you all should read about =)
 
 - [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
@@ -46,4 +46,8 @@ This list includes collection of python packages and tools related to structural
 - [PyMOL](http://pymol.org) - all-in-one tool, everyone who works with protein structures uses something like this. Supports scripting in python-like DSL. It is made with python & C++. Supports plugins.
 
 - [rdkit](https://github.com/rdkit/rdkit) and related materials/tutorial from [RDKit User Group Meeting 2016](https://github.com/rdkit/UGM_2016)
+
+#### Cheminformatics/drug design courses with notebooks/examples in Python
+
+- [PharmSci 175/275 Lecture Materials](https://github.com/MobleyLab/drug-computing/tree/master/uci-pharmsci/lectures)
 
